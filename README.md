@@ -1,5 +1,5 @@
-# Student, Instructor, Classroom
-* **Purpose** - to demonstrate the use of [Java interfaces](http://tutorials.jenkov.com/java/interfaces.html)
+# Practice with Interfaces: Student, Instructor, Classroom
+* **Purpose** - to demonstrate the use of Java interfaces and TDD.
 
 
 # Part 1.1 - Create `Person` Class
